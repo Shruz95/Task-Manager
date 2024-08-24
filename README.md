@@ -1,3 +1,9 @@
+Task Manager used to manage tasks of different users.
+1.User can add task
+2.Tasks can be removed when marked as 'Complete'.
+
+This a basic web app built using Angular JS, HTML, CSS and local storage for database.
+
 # Essentials
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.1.2.
